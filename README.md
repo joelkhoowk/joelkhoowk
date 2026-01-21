@@ -7,7 +7,8 @@ Software Engineering Undergraduate
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelkhoowk)
-[![Location](https://img.shields.io/badge/Singapore-FF0000?style=for-the-badge&logo=singapore&logoColor=white)](#)
+<br>
+![Location](https://img.shields.io/badge/📍_Singapore_🇸🇬-white?style=for-the-badge)
 
 </div>
 
