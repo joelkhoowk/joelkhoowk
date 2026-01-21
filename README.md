@@ -1,6 +1,6 @@
 <div align="center">
 
-## Joel Khoo
+## Joel
 
 Software Engineering Undergraduate
 
