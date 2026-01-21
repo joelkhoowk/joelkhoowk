@@ -88,19 +88,6 @@ Software Engineering Undergraduate
 
 ---
 
-<details>
-<summary><b>GitHub Activity</b></summary>
-
-<br/>
-
-- Most repositories are private due to academic and team-based projects  
-- Contributions reflect coursework, collaboration, and incremental learning  
-- Public repositories focus on documentation, structure, and design clarity  
-
-</details>
-
----
-
 <div align="center">
 <sub>Thanks for stopping by 🙂</sub>
 </div>
