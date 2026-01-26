@@ -14,7 +14,7 @@ Software Engineering Undergraduate
 
 <br>
 
-## Featured Projects
+## My Projects
 
 <table>
 <tr>
