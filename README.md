@@ -26,10 +26,10 @@ Software Engineering Undergraduate
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
-- Designed with **hexagonal architecture** for clean separation of concerns
+- Designed with hexagonal architecture for clean separation of concerns
 - Shared domain model across multiple platforms
 - Intuitive interface with seamless platform integration
-- Clean architecture principles for maintainable code
+- Clean architecture principles for maintainable and scalable code
 
 </td>
 <td width="50%">
@@ -69,7 +69,7 @@ Software Engineering Undergraduate
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS CCP](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
