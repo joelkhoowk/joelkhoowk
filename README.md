@@ -2,7 +2,7 @@
 
 # Joel Khoo
 
-Software Engineering Undergraduate
+Software Engineering | Cloud
 
 <br>
 
