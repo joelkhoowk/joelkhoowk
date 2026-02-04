@@ -21,7 +21,7 @@ Software Engineering | Cloud
 <td width="50%">
 
 ### Attendance Tracking System
-**Multi-platform attendance management solution**
+**Multi-Platform Attendance Management Solution**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
@@ -35,7 +35,7 @@ Software Engineering | Cloud
 <td width="50%">
 
 ### Event Tracker Application
-**Full-stack event discovery and management platform**
+**Full-stack Event Discovery & Management Platform**
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
