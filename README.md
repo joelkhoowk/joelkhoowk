@@ -2,7 +2,7 @@
 
 # Joel Khoo
 
-Software Engineering · Cloud · Exploring AI Applications
+Software Engineering · Cloud · AI Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelkhoowk)
 
