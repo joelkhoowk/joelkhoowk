@@ -126,7 +126,7 @@ One attendance system that runs on desktop, web and Android, built on a single s
 
 <div align="center">
 
-**Open to internship and graduate roles in AI and cloud engineering.**
+**Open to internship and graduate roles in AI & Cloud engineering.**
 
 [Say hello](mailto:joelkhoowk@gmail.com)
 
