@@ -104,28 +104,6 @@ One attendance system that runs on desktop, web and Android, built on a single s
 
 <br>
 
-## Activities and volunteering
-
-| Organisation | Role | When |
-|---|---|---|
-| **SMU Football** | Athlete & facilitator. SUniG 3rd place, IVP Games and a Fuego title. Helped run Diva La Futbol, Sports Fiesta and Vivace | Oct 2024 to present |
-| **SMU Freshmen Orientation** | Facilitator | Jun to Aug 2025 |
-| **starringSMU** | Volunteer, creative sessions at THK for people with intellectual disabilities | Aug to Dec 2024 |
-| **SMU Caretalyst, Project YOLO** | Volunteer, learning journeys on Singapore's culture and heritage for children | Aug to Oct 2024 |
-| **ACJC Football** | Head of Logistics | 2020 to 2021 |
-
-<br>
-
-## Education and certification
-
-| Where | What | When |
-|---|---|---|
-| **Singapore Management University** | Bachelor of Science (Software Engineering) | Aug 2024 to present |
-| **Anglo-Chinese Junior College** | GCE A Levels in Physics, Mathematics, Chemistry and Economics | 2020 to 2021 |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | Jan 2026 |
-
-<br>
-
 ## Skills
 
 **Cloud and infra** &nbsp;
@@ -153,6 +131,9 @@ One attendance system that runs on desktop, web and Android, built on a single s
 ![Gemini](https://img.shields.io/badge/Gemini-034694?style=flat-square&logo=googlegemini&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-034694?style=flat-square&logo=spring&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-034694?style=flat-square)
+
+**Certified** &nbsp;
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-DBA111?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 <br>
 
