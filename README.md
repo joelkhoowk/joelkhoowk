@@ -24,13 +24,12 @@ Platform Engineering Intern at the Ministry of Health Singapore, May to October 
 - Built an **alerting engine** across AWS accounts that removes duplicate findings and uses Amazon Bedrock to write readable Slack alerts
 
 <details>
-<summary><b>Four more things I built</b></summary>
+<summary><b>3 more things I built</b></summary>
 <br>
 
 - Added **vulnerability scanning and an SBOM** to the weekly golden image build, plus a clean-up job that retires old images while keeping any still in use
 - Replaced a shared spreadsheet with a **read-only API** in FastAPI on AWS Lambda, so application owners and incident contacts can be looked up quickly
 - Wrote a **custom Checkov rule** that checks mandatory tags before a change is merged, and fixed the tag compliance report that runs across every account
-- Wrote the **server onboarding and offboarding checklists** that are now the team's logging SOP
 
 </details>
 
