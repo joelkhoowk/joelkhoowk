@@ -35,11 +35,6 @@ Platform Engineering Intern at the Ministry of Health Singapore, May to October 
 ![Checkov](https://img.shields.io/badge/Checkov-034694?style=flat-square)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-034694?style=flat-square&logo=gitlab&logoColor=white)
 
-*The code belongs to MOH, so it isn't on GitHub.*
-
-### Teaching Assistant, Algorithms and Programming
-**Singapore Management University** &nbsp;·&nbsp; January to April 2026
-
 <br>
 
 ## Projects
