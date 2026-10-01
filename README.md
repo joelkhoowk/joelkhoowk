@@ -19,20 +19,12 @@ Platform Engineering Intern at the Ministry of Health Singapore, May to October 
 ### Platform Engineering Intern
 **Ministry of Health Singapore** &nbsp;·&nbsp; May to October 2026
 
-- Deployed **TSBuddy**, an internal AI assistant that answers platform questions for engineers, application teams and vendors
-- Deployed an **AI Paper Generator**, an internal AI assistant that drafts and reviews papers for colleagues
 - Built an **alerting engine** across AWS accounts that removes duplicate findings and uses Amazon Bedrock to write readable Slack alerts
-
-<details>
-<summary><b>Four more things I built</b></summary>
-<br>
-
 - Added **vulnerability scanning and an SBOM** to the weekly golden image build, plus a clean-up job that retires old images while keeping any still in use
 - Replaced a shared spreadsheet with a **read-only API** in FastAPI on AWS Lambda, so application owners and incident contacts can be looked up quickly
 - Wrote a **custom Checkov rule** that checks mandatory tags before a change is merged, and fixed the tag compliance report that runs across every account
-- Wrote the **server onboarding and offboarding checklists** that are now the team's logging SOP
 
-</details>
+<br>
 
 ![AWS](https://img.shields.io/badge/AWS-034694?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-034694?style=flat-square&logo=terraform&logoColor=white)
@@ -42,11 +34,6 @@ Platform Engineering Intern at the Ministry of Health Singapore, May to October 
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-034694?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Checkov](https://img.shields.io/badge/Checkov-034694?style=flat-square)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-034694?style=flat-square&logo=gitlab&logoColor=white)
-
-*The code belongs to MOH, so it isn't on GitHub.*
-
-### Teaching Assistant, Algorithms and Programming
-**Singapore Management University** &nbsp;·&nbsp; January to April 2026
 
 <br>
 
