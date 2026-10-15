@@ -2,9 +2,7 @@
 
 # Joel Khoo
 
-**Software Engineering Undergraduate at Singapore Management University**
-
-Platform Engineering Intern at the Ministry of Health Singapore, May to October 2026
+**Software Engineering Undergraduate @ Singapore Management University**
 
 [![Website](https://img.shields.io/badge/Website-joelk.vercel.app-034694?style=for-the-badge&logo=vercel&logoColor=white)](https://joelk.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joelkhoowk-034694?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelkhoowk)
@@ -14,7 +12,7 @@ Platform Engineering Intern at the Ministry of Health Singapore, May to October 
 
 <br>
 
-## Experience
+## Work
 
 ### Platform Engineering Intern
 **Ministry of Health Singapore** &nbsp;·&nbsp; May to October 2026
