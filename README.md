@@ -14,29 +14,6 @@ Platform Engineering Intern at the Ministry of Health Singapore, May to October 
 
 <br>
 
-## Experience
-
-### Platform Engineering Intern
-**Ministry of Health Singapore** &nbsp;·&nbsp; May to October 2026
-
-- Built a cross-account **event engine**: Lambdas send alerts and custom events to EventBridge, and Amazon Bedrock judges repeats, false positives and severity, then picks the Slack channel to route to
-- Added **vulnerability scanning and SBOM collection** to the weekly golden AMI pipeline with a pinned, checksum-verified scanner, plus a retirement job that keeps images still in use
-- Fixed the multi-account **tag compliance report**, including the inventory collector that was silently dropping tags, and wrote a **custom Checkov rule** that checks the same tags in Terraform before merges
-- Built a **metadata API** in FastAPI on AWS Lambda, with IAM controlling access, to replace a shared spreadsheet of application owners and incident contacts
-
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-034694?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-034694?style=flat-square&logo=terraform&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-034694?style=flat-square&logo=packer&logoColor=white)
-![Python](https://img.shields.io/badge/Python-034694?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-034694?style=flat-square&logo=fastapi&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-034694?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Checkov](https://img.shields.io/badge/Checkov-034694?style=flat-square)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-034694?style=flat-square&logo=gitlab&logoColor=white)
-
-<br>
-
 ## Projects
 
 <table>
